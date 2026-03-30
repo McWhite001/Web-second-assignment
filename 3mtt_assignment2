@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Foods Webpage</title>
+</head>
+<body>
+
+    <!-- Heading and Subheading -->
+    <h1>Welcome to My Webpage</h1>
+    <h2>About My Favorite Things</h2>
+
+    <!-- Paragraphs -->
+    <p>
+        This is my webpage assignment, and I am excited to learn more about HTML and web development.
+    </p>
+
+    <p>
+        I enjoy eating <b>delicious meals</b> and trying new dishes. 
+        Learning web development is also <i>very interesting and fun</i>.
+    </p>
+
+    <!-- Internal and External Links -->
+    <p>
+        <a href="#foods">Jump to Favorite Foods</a>
+    </p>
+
+    <p>
+        <a href="https://www.google.com" target="_blank">Visit Google</a>
+    </p>
+
+    <!-- Ordered List -->
+    <h3 id="foods">My Top 3 Favorite Foods</h3>
+    <ol>
+        <li>Jollof Rice</li>
+        <li>Fried Chicken</li>
+        <li>Pounded Yam and Egusi Soup</li>
+    </ol>
+
+    <!-- Image with Alt Text -->
+    <img scr="dan.jpg" width="400", height="350"<alt>I am the developer</alt>
+
+</body>
+</html>
